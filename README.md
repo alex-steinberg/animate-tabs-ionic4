@@ -12,6 +12,16 @@ My next attempt will use Angular's route guards to delay the transition long eno
 
 Watch this space...
 
+# Usage
+
+Install [Node >10.9](https://github.com/nvm-sh/nvm)
+
+Clone this repository
+
+Run `npm install`
+
+Run `ionic serve`
+
 ## Base app
 
 This app was created using the Tabs starter app. 
